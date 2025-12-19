@@ -17,8 +17,7 @@
     </div>
     <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
-<div align= "center"> <a href=https://continuous-beaufort-5f5.notion.site/Portfolio-2410e0f08f83808aa09ce25183ae9372?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://continuous-beaufort-5f5.notion.site/Portfolio-2410e0f08f83808aa09ce25183ae9372?source=copy_link"> </a>
-</div>
+
     <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
 
