@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:,100:6e6e6e&height=180&text=Gi%20Wook&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center">
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin2936480)](https://solved.ac/jin2936840/)
+    [Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jin2936480)](https://solved.ac/jin2936840/)
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
